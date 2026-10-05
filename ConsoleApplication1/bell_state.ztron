@@ -1,0 +1,8 @@
+# ZTron Quantum Assembly Test Script
+INIT 2
+PRINT
+H 0
+CNOT 0 1
+PRINT
+MEASURE
+PRINT
